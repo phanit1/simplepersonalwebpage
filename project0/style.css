@@ -1,0 +1,26 @@
+#Unorder { 
+    display: inline-block;
+    text-align: center;
+}
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+}
+ol {
+    width: 70%;
+    margin: auto;
+    font-style: italic;
+}
+@media only screen and (max-width: 700px) {
+    body {
+      background-color:lightblue;
+    }
+  }
+img{
+    margin: 0 auto;
+    height: auto;
+    max-width: 100%;
+    border: none;
+    display: block;
+    padding: 5px 0;
+}
